@@ -669,6 +669,11 @@ header {
   fill: var(--wite-color);
 }
 
+.address .link:hover,
+.address .link:focus {
+  color: var(--accent-color);
+}
+
 /* PORTFOLIO */
 
 .radio-button {
