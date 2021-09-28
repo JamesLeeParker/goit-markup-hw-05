@@ -78,7 +78,7 @@ a {
   background-color: var(--accent-color);
 }
 
-.header .section > nav.nav > .logo {
+.logo {
   font-family: Raleway, sans-serif;
   color: var(--title-text-color);
   font-weight: 700;
